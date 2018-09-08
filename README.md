@@ -5,8 +5,8 @@ Use SIFT and RANSAC algorithm to detect the object. Then use the recovered Homog
 
 ## Demo
 target:
-<img src="target.bmp" />
+<img src="target.bmp" width=200 height=160/>
 object:
-<img src="object.bmp" />
+<img src="object.bmp" width=200 height=160/>
 result:
-<img src="result.jpg" />
+<img src="result.jpg" width=200 height=160/>
